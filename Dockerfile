@@ -2,6 +2,10 @@ FROM tomcat:9.0-jdk21-temurin
 
 WORKDIR /usr/local/tomcat
 
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends tesseract-ocr tesseract-ocr-eng \
+    && rm -rf /var/lib/apt/lists/*
+
 RUN rm -rf webapps/*
 
 COPY src/main/webapp/ webapps/ROOT/
@@ -14,6 +18,8 @@ RUN mkdir -p webapps/ROOT/WEB-INF/classes \
        -d webapps/ROOT/WEB-INF/classes \
        $(find /tmp/src/main/java -name "*.java") \
     && rm -rf /tmp/src
+
+ENV EXPENSE_TESSERACT_CMD=/usr/bin/tesseract
 
 EXPOSE 8080
 
