@@ -2,6 +2,12 @@
 
 Idhu oru Java Web Project. User income + expense manage panna mudiyum, reports generate panna mudiyum, charts-la analysis paakalam, bill OCR text la irundhu expense auto fill pannalam.
 
+## Live Project
+
+- Live URL: `https://ai-powered-expense-analyzer-production.up.railway.app`
+- Demo Login Email: `admin@example.com`
+- Demo Login Password: `admin123`
+
 ## Project Purpose
 
 Daily finance tracking easy aagavum, manual mistakes kuraiyavum, student/demo level full-stack concept clear aagavum indha project build pannirukom.
@@ -86,6 +92,10 @@ Indha project-ku easiest public deployment path:
 - Database: Railway MySQL
 - Public URL: Railway generated domain
 
+### Current Live Railway URL
+
+- `https://ai-powered-expense-analyzer-production.up.railway.app`
+
 ### Why this works well
 
 - Project already single Java web app, separate FE deploy thevai illa
@@ -122,6 +132,7 @@ Indha project-ku easiest public deployment path:
 
 - Email: `admin@example.com`
 - Password: `admin123`
+- OCR status on Railway: `Tesseract image OCR enabled`
 
 ## How to Run (Alternative: Eclipse + Tomcat)
 

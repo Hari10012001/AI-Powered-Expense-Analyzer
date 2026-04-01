@@ -7,6 +7,8 @@
 - Technology Used: `Java 21, JSP, Servlet, JDBC, MySQL, H2 (fallback), Tomcat 9, HTML, CSS, JavaScript, Chart.js, Tesseract OCR (optional)`
 - Problem Statement: `Manual expense tracking irregular-aa irukku; insights illa; report ready panna kashtam`
 - Target Users: `College students, salaried people, family budget track pannura users, demo/learning students`
+- Live Project URL: `https://ai-powered-expense-analyzer-production.up.railway.app`
+- Demo Login: `admin@example.com / admin123`
 
 ---
 
@@ -47,6 +49,12 @@ Solution with this project:
 - daily entry update
 - monthly report paathu category heavy spend identify
 - chart-la visual-aa paathu control panna easy
+
+### Live demo link
+
+Faculty/students direct-aa browser-la open panna use panna vendiya live link:
+
+`https://ai-powered-expense-analyzer-production.up.railway.app`
 
 ---
 
@@ -227,6 +235,11 @@ Ippo project-la use pannirukkura ovvoru technology-yum clear-aa paapom.
 - Alternative:
   - Google Vision OCR API
   - Azure OCR
+
+### Current deployment note
+
+- Railway live deployment-la Tesseract OCR enabled irukku
+- So Bill Scan module image upload OCR-um working
 
 ### Eclipse / Project packaging note
 
@@ -638,6 +651,10 @@ Review time-la neenga follow panna ready-made demo flow:
 
 "Indha system manual expense notebook method-a replace pannudhu.  
 User data structured-aa store pannudhu, reports and charts moolama spending decision smart-aa edukka help pannudhu."
+
+### Demo open panna ready line
+
+"Live deployment Railway-la host pannirukkom. Browser-la `https://ai-powered-expense-analyzer-production.up.railway.app` open pannitu demo account use panni project-a direct-aa show panna mudiyum."
 
 ---
 

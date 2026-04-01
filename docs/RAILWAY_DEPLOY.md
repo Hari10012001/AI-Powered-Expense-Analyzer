@@ -10,6 +10,12 @@ After deployment, your project will open from one link like:
 
 That single link will load the JSP frontend, call the Java servlet backend, and use the Railway MySQL database.
 
+## Current Live URL
+
+The project is already deployed and live at:
+
+`https://ai-powered-expense-analyzer-production.up.railway.app`
+
 ## Requirements
 
 Before starting, keep these ready:
@@ -72,6 +78,10 @@ Railway will create a public URL such as:
 
 `https://expense-analyzer-production.up.railway.app/`
 
+For this project, the current generated live URL is:
+
+`https://ai-powered-expense-analyzer-production.up.railway.app`
+
 ## Step 7: Open the Project
 
 Open the generated Railway URL in the browser.
@@ -84,6 +94,16 @@ Use the seeded default account:
 
 - Email: `admin@example.com`
 - Password: `admin123`
+
+## OCR Support on Railway
+
+Image OCR is enabled in the deployed container using Tesseract OCR.
+
+That means Bill Scan supports:
+
+- image upload OCR
+- OCR text file upload
+- pasted OCR text
 
 ## What Is Already Configured in This Project
 
@@ -111,5 +131,9 @@ If a student or faculty member asks for the project URL, share only the generate
 Example:
 
 `https://your-app.up.railway.app/`
+
+Current example:
+
+`https://ai-powered-expense-analyzer-production.up.railway.app`
 
 That is the single URL they need to open the full working project.
