@@ -1,0 +1,18 @@
+TNEB ELECTRICITY BILL
+Consumer Name: Karthik M
+Service No: 09-245-118-991
+Bill Month: FEB-2026
+Date: 03-03-2026
+----------------------------------------
+Previous Reading            18842
+Current Reading             19096
+Units Consumed                254
+Energy Charges              1320.00
+Fixed Charges                180.00
+Tax                           36.00
+----------------------------------------
+Net Amount Rs               1536.00
+Grand Total Rs              1536.00
+Amount Due Rs               1536.00
+Due Date: 10-03-2026
+Pay online via netbanking/UPI

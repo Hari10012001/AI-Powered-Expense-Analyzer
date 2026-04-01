@@ -1,0 +1,7 @@
+CITY FUEL STATION
+Invoice CF-2026-5508
+Date 02-03-2026
+Petrol 18.52L 1966.82
+GST 98.34
+Grand Total Rs 2065.16
+Payment Card

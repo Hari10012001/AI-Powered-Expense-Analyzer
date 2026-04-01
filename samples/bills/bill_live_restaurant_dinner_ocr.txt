@@ -1,0 +1,18 @@
+SPICE ROUTE RESTAURANT
+Velachery Main Road, Chennai
+Bill No: SR-55692
+Date: 28-02-2026   Time: 09:18 PM
+----------------------------------------
+2 x Paneer Tikka            420.00
+3 x Butter Naan             165.00
+1 x Veg Fried Rice          240.00
+1 x Lemon Soda               90.00
+----------------------------------------
+Sub Total                    915.00
+Service Charge 5%            45.75
+CGST 2.5%                    24.02
+SGST 2.5%                    24.02
+Net Payable Rs             1008.79
+Grand Total Rs             1009.00
+Payment: Card
+Have a great meal!

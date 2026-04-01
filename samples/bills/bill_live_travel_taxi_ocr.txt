@@ -1,0 +1,18 @@
+CITYCAB TRAVEL SERVICES
+Trip Receipt
+Booking ID: CC-904381
+Date: 02-03-2026   Time: 08:11 AM
+Pickup: Anna Nagar
+Drop: Guindy
+----------------------------------------
+Base Fare                    190.00
+Distance Charge              138.00
+Peak Charge                   45.00
+Toll                           20.00
+GST 5%                        19.65
+----------------------------------------
+Total Amount Rs              412.65
+Grand Total Rs               413.00
+Amount Due Rs                413.00
+Payment: Wallet
+Safe Travel!

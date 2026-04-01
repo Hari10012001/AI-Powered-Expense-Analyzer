@@ -1,0 +1,20 @@
+FRESH BASKET SUPERMARKET
+No.14, Lake View Road, Chennai
+GSTIN: 33AAAFB1020L1Z8
+Invoice No: FB-2026-031
+Date: 01-03-2026   Time: 07:42 PM
+----------------------------------------
+1 x Rice 5kg                410.00
+2 x Milk 1L                 124.00
+1 x Sunflower Oil 1L        168.00
+1 x Wheat Flour 2kg         122.00
+1 x Apple 1kg               178.00
+1 x Sugar 1kg                58.00
+----------------------------------------
+Sub Total                   1060.00
+CGST 2.5%                    26.50
+SGST 2.5%                    26.50
+Grand Total Rs              1113.00
+Amount Due Rs               1113.00
+Payment: UPI
+Thank you. Visit Again!

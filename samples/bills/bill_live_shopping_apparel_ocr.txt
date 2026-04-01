@@ -1,0 +1,17 @@
+TREND HUB FASHION STORE
+Phoenix Mall, Chennai
+Invoice: TH-2026-774
+Date: 04-03-2026   Time: 05:56 PM
+----------------------------------------
+1 x Men Shirt                1199.00
+1 x Jeans                    1799.00
+1 x Socks Pack               199.00
+----------------------------------------
+Sub Total                    3197.00
+Discount                     -300.00
+Tax 12%                       347.64
+Net Payable Rs              3244.64
+Grand Total Rs              3245.00
+Amount Due Rs               3245.00
+Payment: Credit Card
+Visit Again - TH Store

@@ -1,0 +1,11 @@
+GREENMART SUPERMARKET
+Invoice GM-2026-8931
+Date 03-03-2026
+Basmati Rice 5kg 520.00
+Sunflower Oil 1L 290.00
+Milk 500ml 84.00
+Apples 1kg 160.00
+Sub Total 1054.00
+GST 52.70
+Grand Total Rs 1106.70
+Payment UPI

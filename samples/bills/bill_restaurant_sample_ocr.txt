@@ -1,0 +1,9 @@
+SPICE AVENUE RESTAURANT
+Invoice SA-2026-4402
+Date 01-03-2026
+Veg Fried Rice 360.00
+Paneer Tikka 260.00
+Fresh Lime Soda 140.00
+GST 38.00
+Grand Total Rs 798.00
+Payment Cash

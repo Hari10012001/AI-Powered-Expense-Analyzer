@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+         http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+         version="4.0">
+
+    <display-name>ExpenseAnalyzer</display-name>
+
+    <servlet>
+        <servlet-name>AuthServlet</servlet-name>
+        <servlet-class>com.expenses.controller.AuthServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AuthServlet</servlet-name>
+        <url-pattern>/AuthServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>LoginServlet</servlet-name>
+        <servlet-class>com.expenses.controller.LoginServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LoginServlet</servlet-name>
+        <url-pattern>/LoginServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>IncomeServlet</servlet-name>
+        <servlet-class>com.expenses.controller.IncomeServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>IncomeServlet</servlet-name>
+        <url-pattern>/IncomeServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ExpenseServlet</servlet-name>
+        <servlet-class>com.expenses.controller.ExpenseServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ExpenseServlet</servlet-name>
+        <url-pattern>/ExpenseServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ReportServlet</servlet-name>
+        <servlet-class>com.expenses.controller.ReportServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ReportServlet</servlet-name>
+        <url-pattern>/ReportServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ProfileServlet</servlet-name>
+        <servlet-class>com.expenses.controller.ProfileServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ProfileServlet</servlet-name>
+        <url-pattern>/ProfileServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>AnalysisServlet</servlet-name>
+        <servlet-class>com.expenses.controller.AnalysisServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AnalysisServlet</servlet-name>
+        <url-pattern>/AnalysisServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>BillScanServlet</servlet-name>
+        <servlet-class>com.expenses.controller.BillScanServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>BillScanServlet</servlet-name>
+        <url-pattern>/BillScanServlet</url-pattern>
+    </servlet-mapping>
+
+    <welcome-file-list>
+        <welcome-file>login.jsp</welcome-file>
+    </welcome-file-list>
+
+</web-app>
